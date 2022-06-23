@@ -13,3 +13,11 @@ body {
 section {
   padding-top: 5rem;
 }
+
+.gallery-img {
+  width: 300px;
+}
+
+#gallety .row > * {
+  padding: 0;
+}
